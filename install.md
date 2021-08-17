@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 
 # Install catkin tools and vcstools if you haven't done so before. Depending on your operating system
 sudo apt-get install python-catkin-tools python-vcstool
